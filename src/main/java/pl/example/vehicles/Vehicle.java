@@ -1,3 +1,5 @@
+package pl.example.vehicles;
+
 public abstract class Vehicle {
     protected String name;
 

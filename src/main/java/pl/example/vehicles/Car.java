@@ -1,3 +1,5 @@
+package pl.example.vehicles;
+
 public class Car extends Vehicle {
     private int doors;
 

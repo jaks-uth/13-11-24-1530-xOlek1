@@ -1,3 +1,5 @@
+package pl.example.vehicles;
+
 public class Bike extends Vehicle {
 
 
